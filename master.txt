@@ -1,3 +1,5 @@
 This is my first file!
 -Osazee A.
 
+
+This instruction adds some more text to the master.txt file. Thanks!
